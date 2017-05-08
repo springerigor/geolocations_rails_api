@@ -1,6 +1,6 @@
 GIT
-  remote: git@github.com:springerigor/geo_importer.git
-  revision: 5fac79b00b2d2ae5c52efe6dc4ff833477fce808
+  remote: https://github.com/springerigor/geo_importer.git
+  revision: 9858b78f7f7ffec8b95990234a7bad27f6443391
   specs:
     geo_importer (0.1.0)
       countries
@@ -117,23 +117,23 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
-    rspec-core (3.5.4)
-      rspec-support (~> 3.5.0)
-    rspec-expectations (3.5.0)
+    rspec-core (3.6.0)
+      rspec-support (~> 3.6.0)
+    rspec-expectations (3.6.0)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.5.0)
-    rspec-mocks (3.5.0)
+      rspec-support (~> 3.6.0)
+    rspec-mocks (3.6.0)
       diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.5.0)
-    rspec-rails (3.5.2)
+      rspec-support (~> 3.6.0)
+    rspec-rails (3.6.0)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       railties (>= 3.0)
-      rspec-core (~> 3.5.0)
-      rspec-expectations (~> 3.5.0)
-      rspec-mocks (~> 3.5.0)
-      rspec-support (~> 3.5.0)
-    rspec-support (3.5.0)
+      rspec-core (~> 3.6.0)
+      rspec-expectations (~> 3.6.0)
+      rspec-mocks (~> 3.6.0)
+      rspec-support (~> 3.6.0)
+    rspec-support (3.6.0)
     ruby_dep (1.5.0)
     sequel (4.46.0)
     sixarm_ruby_unaccent (1.1.1)

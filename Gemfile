@@ -7,7 +7,7 @@ gem 'rails', '~> 5.1.0'
 gem 'puma'
 
 # Geolocation importer
-gem 'geo_importer', git: 'git@github.com:springerigor/geo_importer.git'
+gem 'geo_importer', git: 'https://github.com/springerigor/geo_importer.git'
 
 group :development do
   gem 'spring'
