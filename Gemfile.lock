@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/springerigor/geo_importer.git
-  revision: e5eede30637e30c23b88c07ebc3fa7c03c15c0bc
+  revision: cdc8fa7611bf44b8c0504c08fa4ac5b998017bb0
   specs:
     geo_importer (0.1.0)
       dotenv
