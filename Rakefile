@@ -4,3 +4,6 @@
 require_relative 'config/application'
 
 Rails.application.load_tasks
+
+spec = Gem::Specification.find_by_name 'geo_importer'
+load "#{spec.gem_dir}/Rakefile"
