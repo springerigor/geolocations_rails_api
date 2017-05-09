@@ -4,7 +4,7 @@ module Api
     # and `stale?` Rails method to improve performance
     def show
       if geolocation
-        render geolocation
+        render json: { geolocation: geolocation }.to_json
       else
         render json: { error: "Geolocation with IP #{ params[:id] } does not exist." }, status: 404
       end
